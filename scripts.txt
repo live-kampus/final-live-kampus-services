@@ -1,0 +1,19 @@
+{
+    
+	"roomName": "1bhk",
+	"address": "Airoli",
+
+	"roomArea": 2000,
+	"roomType": "AC",
+
+	"roomRent": 2000,
+
+	"deposit": 2000,
+
+	"wifi": "yes",
+
+	"fullFurnished": "yes",
+
+	"available": "yes"
+
+}
